@@ -12,6 +12,12 @@ public class Print {
 	public void TCS() {
 		System.out.println("tcs is good employee friendly organisation");
 	}
+	
+	@Test(priority=2)
+	public void Mphasis() {
+		System.out.println("Mphasis pay me to run my house");
+	}
+
 
 
 }
