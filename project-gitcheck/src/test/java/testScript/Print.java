@@ -15,7 +15,7 @@ public class Print {
 
 	@Test(priority=2)
 	public void Mphasis() {
-		System.out.println("Mphasis pay me to run my house");
+		System.out.println("Mphasis is good company");
 	}
 
 
