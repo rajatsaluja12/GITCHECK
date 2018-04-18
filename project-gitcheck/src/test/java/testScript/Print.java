@@ -17,6 +17,10 @@ public class Print {
 	public void Mphasis() {
 		System.out.println("Mphasis is good company");
 	}
+	@Test(priority=3)
+	public void Accenture() {
+		System.out.println("This is my dream company");
+	}
 
 
 
