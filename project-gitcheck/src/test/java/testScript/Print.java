@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class Print {
 	@Test(priority=0)
 	public void Cognizant() {
-		System.out.println("I love Cognizant");
+		System.out.println("I love Cognizant henceforth");
 	}
 
 	@Test(priority=1)
