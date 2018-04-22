@@ -10,7 +10,7 @@ public class Print {
 
 	@Test(priority=1)
 	public void TCS() {
-		System.out.println("tcs ");
+		System.out.println("tcs is good company");
 	}
 
 	@Test(priority=2)
